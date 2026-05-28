@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/28366233/README.md)
 # XPClumps
 
 [![Platform](https://img.shields.io/badge/Platform-Paper%20%281.21%2B%29-9cf.svg)](https://papermc.io)
