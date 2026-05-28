@@ -1,0 +1,7 @@
+name: PVPClumps
+version: '1.0.1'
+main: ru.lynceus.pvpClumps.XPClumps
+api-version: '1.21'
+prefix: PVPClumps
+authors: [lynceus]
+description: "A lightweight, efficient clumps plugin built specifically for PVP servers."
